@@ -1,6 +1,6 @@
 **Mastermind Game**
 
-Link to YouTube video: https://youtu.be/xC_WNgCOAW4
+Link to YouTube video: https://youtu.be/pLFwXH_ilug
 
 The Mastermind game starts with the codemaker/computer turn. It creates a hidden row of pegs. It could be any color of 6 and any color can repeat. The codemaker has the “secret code area" hidden from the user.
 The codebreaker/the player tries to guess the pattern, in both order and color. The player has 10 attempts. 
